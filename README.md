@@ -2,7 +2,6 @@
 # ❤️ Heart Disease Prediction Using Machine Learning
 
 ## 📌 Overview
-
 This project predicts whether a person has heart disease using machine learning algorithms. It is implemented in **Python using Jupyter Notebook** and uses a medical dataset containing patient health parameters.
 
 The system helps in early detection of heart disease by analyzing important features such as age, blood pressure, cholesterol, and heart rate.
